@@ -3,7 +3,7 @@
 <form method="POST" action="sFormulaire.php">
 
                     <p>Votre nom : <input type="text" name="ztext" value=""/>
-                        <input type="submit" name="bvalider" valeur="VALIDER"/>
+                        <input type="submit" name="bvalider" value="VALIDER"/>
 
                 </form>
                 <br>
