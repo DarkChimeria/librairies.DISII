@@ -2,7 +2,7 @@
 
 <form method="POST" action="sFormulaire.php">
 
-                    <p>Votre nom : <input type="text" name="ztext" valeur=""/>
+                    <p>Votre nom : <input type="text" name="ztext" value=""/>
                         <input type="submit" name="bvalider" valeur="VALIDER"/>
 
                 </form>
